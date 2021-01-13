@@ -3,7 +3,6 @@ node_modules
 /dist
 
 # 忽略所有附檔名是 .env 的檔案
-
 *.env
 
 # local env files
